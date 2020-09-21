@@ -1,0 +1,216 @@
+\begin{thebibliography}{10}
+
+\bibitem{agrawalNL}
+G.~P. Agrawal, {\em Nonlinear Fiber Optics}.
+\newblock Academic Press, 5th~ed., 2012.
+
+\bibitem{Wai_JLT_96}
+P.~K.~A. {Wai} and C.~R. {Menyuk}, ``Polarization mode dispersion,
+  decorrelation, and diffusion in optical fibers with randomly varying
+  birefringence,'' {\em J. Lightw. Technol.}, vol.~14, pp.~148--157, Feb. 1996.
+
+\bibitem{Chen:OpEx10}
+X.~Chen and W.~Shieh, ``Closed-form expressions for nonlinear transmission
+  performance of densely spaced coherent optical {OFDM} systems,'' {\em Opt.
+  Express}, vol.~18, pp.~19039--19054, Aug. 2010.
+
+\bibitem{Shieh_PJ_11}
+W.~{Shieh} and X.~{Chen}, ``Information spectral efficiency and launch power
+  density limits due to fiber nonlinearity for coherent optical ofdm systems,''
+  {\em IEEE Photonics Journal}, vol.~3, pp.~158--173, April 2011.
+
+\bibitem{Poggiolini_PTL_11}
+P.~{Poggiolini}, A.~{Carena}, V.~{Curri}, G.~{Bosco}, and F.~{Forghieri},
+  ``Analytical modeling of nonlinear propagation in uncompensated optical
+  transmission links,'' {\em {IEEE} Photon. Technol. Lett.}, vol.~23,
+  pp.~742--744, June 2011.
+
+\bibitem{Carena_JLT_12}
+A.~{Carena}, V.~{Curri}, G.~{Bosco}, P.~{Poggiolini}, and F.~{Forghieri},
+  ``Modeling of the impact of nonlinear propagation effects in uncompensated
+  optical coherent transmission links,'' {\em J. Lightw. Technol.}, vol.~30,
+  pp.~1524--1539, May 2012.
+
+\bibitem{Poggiolini:12}
+P.~Poggiolini, ``The {GN} model of non-linear propagation in uncompensated
+  coherent optical systems,'' {\em J. Lightwave Technol.}, vol.~30,
+  pp.~3857--3879, Dec. 2012.
+
+\bibitem{johannisson2013perturbation}
+P.~Johannisson and M.~Karlsson, ``Perturbation analysis of nonlinear
+  propagation in a strongly dispersive optical communication system,'' {\em J.
+  Lightw. Technol.}, vol.~31, no.~8, pp.~1273--1282, 2013.
+
+\bibitem{Poggiolini:14}
+P.~Poggiolini, G.~Bosco, A.~Carena, V.~Curri, Y.~Jiang, and F.~Forghieri, ``The
+  {GN}-model of fiber non-linear propagation and its applications,'' {\em J.
+  Lightwave Technol.}, vol.~32, pp.~694--721, Feb. 2014.
+
+\bibitem{Mecozzi_JLT_12}
+A.~Mecozzi and R.-J. Essiambre, ``Nonlinear {Shannon} limit in pseudolinear
+  coherent systems,'' {\em J. Lightw. Technol.}, vol.~30, no.~12,
+  pp.~2011--2024, 2012.
+
+\bibitem{Dar:13}
+R.~Dar, M.~Feder, A.~Mecozzi, and M.~Shtaif, ``Properties of nonlinear noise in
+  long, dispersion-uncompensated fiber links,'' {\em Opt. Express}, vol.~21,
+  pp.~25685--25699, Nov. 2013.
+
+\bibitem{Carena:14}
+A.~Carena, G.~Bosco, V.~Curri, Y.~Jiang, P.~Poggiolini, and F.~Forghieri,
+  ``{EGN} model of non-linear fiber propagation,'' {\em Opt. Express}, vol.~22,
+  pp.~16335--16362, Jun. 2014.
+
+\bibitem{serena2015time}
+P.~Serena and A.~Bononi, ``A time-domain extended {Gaussian} noise model,''
+  {\em J. Lightw. Technol.}, vol.~33, no.~7, pp.~1459--1472, 2015.
+
+\bibitem{Ghazisaeidi:17}
+A.~Ghazisaeidi, ``A theory of nonlinear interactions between signal and
+  amplified spontaneous emission noise in coherent wavelength division
+  multiplexed systems,'' {\em J. Lightwave Technol.}, vol.~35, pp.~5150--5175,
+  Dec. 2017.
+
+\bibitem{Curri:13}
+V.~Curri, A.~Carena, P.~Poggiolini, G.~Bosco, and F.~Forghieri, ``Extension and
+  validation of the {GN} model for non-linear interference to uncompensated
+  links using {Raman} amplification,'' {\em Opt. Express}, vol.~21,
+  pp.~3308--3317, Feb. 2013.
+
+\bibitem{Poggiolini:17}
+P.~Poggiolini and Y.~Jiang, ``Recent advances in the modeling of the impact of
+  nonlinear fiber propagation effects on uncompensated coherent transmission
+  systems,'' {\em J. Lightwave Technol.}, vol.~35, pp.~458--480, Feb. 2017.
+
+\bibitem{semrau2018gaussian}
+D.~Semrau, R.~I. Killey, and P.~Bayvel, ``The {Gaussian} noise model in the
+  presence of inter-channel stimulated {Raman} scattering,'' {\em J. Lightw.
+  Technol.}, vol.~36, no.~14, pp.~3046--3055, 2018.
+
+\bibitem{rabbani2019general}
+H.~{Rabbani}, G.~{Liga}, V.~{Oliari}, L.~{Beygi}, E.~{Agrell}, M.~{Karlsson},
+  and A.~{Alvarado}, ``{A general analytical model of nonlinear fiber
+  propagation in the presence of Kerr nonlinearity and stimulated Raman
+  scattering},'' {\em arXiv e-prints}, Sept. 2019.
+\newblock paper arXiv:1909.08714.
+
+\bibitem{poggiolini2019closedform}
+P.~{Poggiolini}, ``{A closed-form {GN}-model non-linear interference coherence
+  term},'' {\em arXiv e-prints}, June 2019.
+\newblock paper arXiv:1906.03883.
+
+\bibitem{zefreh2019gnmodel}
+M.~{Ranjbar Zefreh} and P.~{Poggiolini}, ``{A {GN}-model closed-form formula
+  considering coherency terms in the link function and covering all possible
+  islands in {2-D GN} integration},'' {\em arXiv e-prints}, July 2019.
+\newblock paper arXiv:1907.09457.
+
+\bibitem{zefreh2019closedform}
+M.~{Ranjbar Zefreh} and P.~{Poggiolini}, ``{A closed-form approximate
+  incoherent {GN}-model supporting {MCI} contributions},'' {\em arXiv
+  e-prints}, Nov. 2019.
+\newblock paper arXiv:1911.03321.
+
+\bibitem{Downie:17}
+J.~D. Downie, M.~Mlejnek, I.~Roudas, W.~A. Wood, A.~Zakharian, J.~E. Hurley,
+  S.~Mishra, F.~Yaman, S.~Zhang, E.~Ip, and Y.~K. Huang, ``Quasi-single-mode
+  fiber transmission for optical communications,'' {\em IEEE J. Sel. Top.
+  Quantum Electron.}, vol.~23, pp.~1--12, May 2017.
+
+\bibitem{Miranda}
+L.~Miranda, I.~Roudas, J.~D. Downie, and M.~Mlejnek, ``Performance of coherent
+  optical communication systems with hybrid fiber spans,'' in {\em Eur. Conf.
+  Opt. Commun. (ECOC)}, (Gothenburg, Sweden), Sept. 2017.
+\newblock Paper P2.SC6.18.
+
+\bibitem{Al-Khateeb:18}
+M.~A.~Z. Al-Khateeb, M.~A. Iqbal, M.~Tan, A.~Ali, M.~McCarthy, P.~Harper, and
+  A.~D. Ellis, ``Analysis of the nonlinear {Kerr} effects in optical
+  transmission systems that deploy optical phase conjugation,'' {\em Opt.
+  Express}, vol.~26, pp.~3145--3160, Feb. 2018.
+
+\bibitem{Krzczanowicz:19}
+L.~Krzczanowicz, M.~A.~Z. Al-Khateeb, M.~A. Iqbal, I.~Phillips, P.~Harper, and
+  W.~Forysiak, ``Performance estimation of discrete {Raman} amplification
+  within broadband optical networks,'' in {\em Opt. Fiber Commun. Conf. (OFC)
+  2019}, (San Diego, CA), 2019.
+\newblock Paper Tu3F.4.
+
+\bibitem{Bononi:13}
+A.~Bononi, O.~Beucher, and P.~Serena, ``Single- and cross-channel nonlinear
+  interference in the gaussian noise model with rectangular spectra,'' {\em
+  Opt. Express}, vol.~21, pp.~32254--32268, Dec 2013.
+
+\bibitem{Mlejnek}
+M.~Mlejnek, I.~Roudas, J.~D. Downie, N.~Kaliteevskiy, and K.~Koreshkov,
+  ``Coupled-mode theory of multipath interference in quasi-single mode
+  fibers,'' {\em IEEE Photon. J.}, vol.~7, pp.~1--16, Feb. 2015.
+
+\bibitem{nayfeh}
+A.~H. Nayfeh, {\em Perturbation methods}.
+\newblock Wiley, 2008.
+
+\bibitem{bender2013advanced}
+C.~M. Bender and S.~A. Orszag, {\em Advanced mathematical methods for
+  scientists and engineers I: Asymptotic methods and perturbation theory}.
+\newblock Springer, 2013.
+
+\bibitem{Proakis}
+J.~Proakis and M.~Salehi, {\em Digital Communications}.
+\newblock McGraw-Hill, 5th~ed., 2007.
+
+\bibitem{forestieri2005solving}
+E.~Forestieri and M.~Secondini, ``Solving the nonlinear {S}chr{\"o}dinger
+  equation,'' in {\em Optical Communication Theory and Techniques}
+  (E.~Forestieri, ed.), pp.~3--11, Springer, 2005.
+
+\bibitem{Rudin}
+W.~Rudin, {\em Real and Complex Analysis, 3rd Ed.}
+\newblock McGraw-Hill, 1987.
+
+\bibitem{Roudas:2020}
+I.~Roudas, X.~Jiang, L.~Miranda, and J.~D. Downie, ``Quasi-single-mode links
+  with hybrid fiber spans.'' under preparation.
+
+\bibitem{Agrawal}
+G.~P. Agrawal, {\em Fiber-optic communication systems}.
+\newblock Wiley, 4th~ed., 2010.
+
+\bibitem{olver2008numerical}
+S.~Olver, {\em Numerical approximation of highly oscillatory integrals}.
+\newblock PhD thesis, University of Cambridge, 2008.
+
+\bibitem{anton1995calculus}
+H.~Anton and A.~Herr, {\em Calculus with analytic geometry}.
+\newblock Wiley, 1995.
+
+\bibitem{mathematica}
+{Wolfram Research Inc.}, {\em Mathematica 12.0}, 2019.
+
+\bibitem{wiki:Fejer}
+{Wikipedia contributors}, ``Fej\'er kernel --- {Wikipedia}{,} the free
+  encyclopedia,'' 2018.
+
+\bibitem{QSMFpatent:17_1}
+J.~D. Downie, M.-J. Li, M.~Mlejnek, I.~G. Roudas, W.~A. Wood, and A.~R.
+  Zakharian, ``Optical transmission systems and methods using a {QSM}
+  large-effective-area optical fiber,'' Dec.~12 2017.
+\newblock {US} Patent 9,841,555.
+
+\bibitem{QSMFpatent:17_2}
+M.-J. Li, S.~K. Mishra, M.~Mlejnek, W.~A. Wood, and A.~R. Zakharian,
+  ``Quasi-single-mode optical fiber with a large effective area,'' Dec.~19
+  2017.
+\newblock {US} Patent 9,846,275.
+
+\bibitem{Sui:15}
+Q.~Sui, H.~Zhang, J.~D. Downie, W.~A. Wood, J.~Hurley, S.~Mishra, A.~P.~T. Lau,
+  C.~Lu, H.-Y. Tam, and P.~K.~A. Wai, ``Long-haul quasi-single-mode
+  transmissions using few-mode fiber in presence of multi-path interference,''
+  {\em Opt. Express}, vol.~23, pp.~3156--3169, Feb. 2015.
+
+\bibitem{wiki:Hyperbolic_coordinates}
+{Wikipedia contributors}, ``Hyperbolic coordinates --- {Wikipedia}{,} the free
+  encyclopedia,'' 2018.
+
+\end{thebibliography}
